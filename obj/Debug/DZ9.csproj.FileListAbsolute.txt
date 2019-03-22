@@ -1,0 +1,7 @@
+c:\users\murka\source\repos\DZ9\DZ9\bin\Debug\DZ9.exe.config
+c:\users\murka\source\repos\DZ9\DZ9\bin\Debug\DZ9.exe
+c:\users\murka\source\repos\DZ9\DZ9\bin\Debug\DZ9.pdb
+c:\users\murka\source\repos\DZ9\DZ9\obj\Debug\DZ9.csprojAssemblyReference.cache
+c:\users\murka\source\repos\DZ9\DZ9\obj\Debug\DZ9.csproj.CoreCompileInputs.cache
+c:\users\murka\source\repos\DZ9\DZ9\obj\Debug\DZ9.exe
+c:\users\murka\source\repos\DZ9\DZ9\obj\Debug\DZ9.pdb
